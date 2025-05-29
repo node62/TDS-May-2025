@@ -19,7 +19,8 @@ pip install -r requirements.txt
 python3 app.py
 ```
 
-That's it! The API will be available at `http://localhost:8000`
+That's it! The API will be available at `http://localhost:8000`\
+Therefore, final answer should be `http://localhost:8000/search`
 
 ## Usage
 
